@@ -1,0 +1,8 @@
+{
+    "dependencies":{
+        "CFWheels":"^1.4.5"
+    },
+    "installPaths":{
+        "CFWheels":"CFWheels"
+    }
+}

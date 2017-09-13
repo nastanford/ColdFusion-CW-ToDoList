@@ -1,0 +1,14 @@
+{
+    "name":"ColdFusion-CW-ToDoList",
+    "force":true,
+    "web":{
+        "http":{
+            "host":"localhost",
+            "port":8500
+        },
+        "rewrites":{
+            "enable":true,
+            "config":"urlrewrite.xml"
+        }
+    }
+}
